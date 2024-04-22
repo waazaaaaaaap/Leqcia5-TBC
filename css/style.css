@@ -1,0 +1,366 @@
+header{
+    margin: 52px;
+}
+
+nav{
+    display: inline-block;
+    
+}
+
+.htmllogo{
+    vertical-align: middle;
+}
+
+li{
+    display: inline-block;
+    margin-left: 88px;
+}
+
+a{
+color: #8D81FF;
+font-family: FiraGO;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.active{
+    color: #4E6FAE;
+}
+
+
+.s-1{
+    margin: 52px;
+}
+
+.may26{
+width: 50px;
+height: 50px;
+background-color: #5012D5;
+color: #84FF81;
+font-family: Helvetica;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 31px;
+height: 34px;
+padding: 10px;
+margin-bottom: 18px;
+}
+
+.month{
+width: 119px;
+height: 34px;
+color: #8D81FF;
+font-family: "BPG Nino Mkhedruli";
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 8;
+}
+
+h4{
+color: #4E6FAE;
+font-family: "ALK Life", sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 13px;
+}
+
+.codeimage{
+    vertical-align: top;
+    margin-bottom: 154px;
+}
+
+.pdiv{
+    display: inline-block;
+    width: 778px;
+    height: 281px;
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 66px;
+    vertical-align: top;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+.Pstyling1{
+color: #4E6FAE;
+font-family: "BPG Nostalgia", sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.PstylingDIFFERENT{
+    font-family: "BPG Nostalgia", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.Pstyling2{
+    width: 778px;
+    height: 280px;
+    color: #4E6FAE;
+    font-family: "BPG Square", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Pstyling3{
+    width: 778px;
+    height: 280px;
+    color: #4E6FAE;
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.list1{
+    font-family: "BPG Nostalgia", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: auto;
+}
+
+.line{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.yt{
+    width: 71px;
+    height: 49px;
+}
+
+footer{
+    margin-bottom: 285px;
+    margin-left: 50px;
+}
+
+
+
+/* NEWS PAGE */
+
+.banner{
+    width: 1052px;
+    height: 462px;
+    border-top: 112px;
+    margin-top: 40px;
+}
+
+
+
+#firsttitle{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 150px;
+    height: 34px;
+    margin-top: 103px;
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.line2{
+    width: 2px;
+    height: 24px;
+    color: #5012D5;
+    margin-top: 114px;
+    vertical-align: baseline;
+}
+
+#secondtitle{
+    color: #4E6FAE;
+    font-family: FiraGO;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 484px;
+    height: 34px;
+    margin-left: 17px;
+}
+
+  
+.title3{
+    color: #3F4145;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 6px;
+    margin-left: 23px;
+}
+.paragraph{
+    display: inline-block;
+    width: 335px;
+    height: 95px;
+    color: #7E8898;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 35px;
+    
+}
+.image2{
+    width: 77px;
+    height: 77px;
+    margin-left: 36px;
+    margin-right: 37px;
+    margin-top: 40px;
+    margin-bottom: 41px;
+    vertical-align: top;
+}
+
+.box1 {
+    display: inline-block;
+    background: #E7E7E7;
+    width: 500px;
+    height: 192px;
+    margin-top: 26px; 
+    padding: 10px;
+  }
+
+
+.box2 {
+    display: inline-block;
+    background: #E7E7E7;
+    height: 192px;
+    margin-top: 26px;
+    margin-left: 20px; /* Adjust margin for spacing */
+    padding: 10px;
+  }
+
+.image3{
+    width: 89px;
+    height: 89px;
+    margin-left: 38px;
+    margin-right: 21px;
+    margin-top: 23px;
+    margin-bottom: 35px;
+    vertical-align: top;
+}
+
+.footer2{
+    margin-top: 91px;
+    margin-left: 194px;
+}
+.container{
+    width: 1052px;
+    margin: 0 auto;
+}
+
+
+/* CONTACT PAGE */
+
+.contactbox{
+    width: 1660px;
+    height: 735px;
+    background: #E7E7E7;
+    margin-bottom: 27px;
+}
+
+.title4{
+    color: #4E6FAE;
+    font-family: "Helvetica Neue";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 474px;
+    height: 34px;
+    margin-bottom: 27px;
+    margin-left: 162px;
+    margin-top: 114px;
+}
+
+.information{
+    color: #7E8898;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 27px;
+   
+}
+
+.fullinfo {
+    color: #3F4145;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    margin-left: 162px;
+}
+#addresss{
+    color: #7E8898;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 23px;
+    margin-left: 162px;
+}
+#address1{
+    color: #3F4145;
+    font-family: "Helvetica Neue LT GEO";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+    
+}
+
+.contactbox {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.contact-info {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.map-container {
+    flex: 1;
+    margin-top: 118px; 
+    margin-right: 63px;
+    margin-left: 57px;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 550px; 
+}
